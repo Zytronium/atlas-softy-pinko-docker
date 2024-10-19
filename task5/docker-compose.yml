@@ -5,8 +5,8 @@ services:
       context: front-end
       dockerfile: Dockerfile
     image: task5-frontend:latest
-    ports:
-      - "9000:80"
+    expose:
+      - "9000"
     depends_on:
       - back-end
 
@@ -15,5 +15,16 @@ services:
       context: back-end
       dockerfile: Dockerfile
     image: task5-backend:latest
+    expose:
+      - "5252"
+
+  proxy:
+    build:
+      context: ./proxy
+      dockerfile: Dockerfile
+    image: task5-proxy:latest
     ports:
-      - "5252:5252"
+      - "80:80"
+    depends_on:
+      - front-end
+      - back-end
