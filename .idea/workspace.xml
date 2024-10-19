@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d28e401-63ab-4d41-b172-588f6fc169f9" name="Changes" comment="updated gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Project Readme" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zytronium&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zytronium/atlas-softy-pinko-docker.git&quot;,
+    &quot;accountId&quot;: &quot;c7e4cb98-5fee-446f-a151-ad82cd02c1c0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nd9RQsOGs43I6f14aE0o6QJeJg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Dockerfile.executor": "Run",
+    "Docker.task1/Dockerfile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/SmartFridge/PycharmProjects/atlas-softy-pinko-docker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.sburlyaev.cmd.plugin.PluginSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task2/back-end" />
+      <recent name="$PROJECT_DIR$/task0" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.task1/Dockerfile">
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="task0/Dockerfile: Compose Deployment" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="docker-desktop-linux">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="task0/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="task1/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="docker-desktop-linux">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="task1/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.task1/Dockerfile" />
+        <item itemvalue="Docker.task0/Dockerfile: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d28e401-63ab-4d41-b172-588f6fc169f9" name="Changes" comment="" />
+      <created>1729292077981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729292077981</updated>
+      <workItem from="1729292081025" duration="4397000" />
+      <workItem from="1729299912810" duration="3623000" />
+    </task>
+    <task id="LOCAL-00001" summary="did task1">
+      <option name="closed" value="true" />
+      <created>1729294882329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729294882329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="did task2">
+      <option name="closed" value="true" />
+      <created>1729300675507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729300675507</updated>
+    </task>
+    <task id="LOCAL-00003" summary="did task3">
+      <option name="closed" value="true" />
+      <created>1729363114977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363114977</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated gitignore to specifically ignore certain files that should've already been ignored by ignoring ./.idea/, but aren't.&#10;Probably because one of the files in .idea/ got commited somehow.">
+      <option name="closed" value="true" />
+      <created>1729363379155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363379155</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test 1 2 3">
+      <option name="closed" value="true" />
+      <created>1729363529358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363529358</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test 3 2 1">
+      <option name="closed" value="true" />
+      <created>1729363600237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363600237</updated>
+    </task>
+    <task id="LOCAL-00007" summary="copied task3 into task4">
+      <option name="closed" value="true" />
+      <created>1729363766867</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363766867</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated gitignore">
+      <option name="closed" value="true" />
+      <created>1729363791721</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363791721</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated gitignore">
+      <option name="closed" value="true" />
+      <created>1729363895083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729363895083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="did task1" />
+    <MESSAGE value="did task2" />
+    <MESSAGE value="did task3" />
+    <MESSAGE value="updated gitignore to specifically ignore certain files that should've already been ignored by ignoring ./.idea/, but aren't.&#10;Probably because one of the files in .idea/ got commited somehow." />
+    <MESSAGE value="test 1 2 3" />
+    <MESSAGE value="test 3 2 1" />
+    <MESSAGE value="copied task3 into task4" />
+    <MESSAGE value="updated gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated gitignore" />
+  </component>
+</project>
